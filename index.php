@@ -15,6 +15,7 @@
  *
  */
 // stringide väljastamine
+//
 //print funktsiooniga
 print "See on tavaline tekst<br/>\n";
 print 'See on veel üks rida tavaliselt tekstist<br/>';
