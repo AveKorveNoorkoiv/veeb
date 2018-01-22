@@ -149,6 +149,9 @@ elementideKorrutis(array(1, 0, 6, 0, 0, 3, 5));
  * tsükli abil, samuti EI SAA kasutada
  * grupeerimisfunktisoone ega muuta antud massiivi
  * */
+/**
+ * @param $massiiv
+ */
 function mitteDubleeri($massiiv){
     $valjasta = '';
     foreach($massiiv as $element){
