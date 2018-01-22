@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ikt" uploadOnCheckin="16d5da7d-0ab7-4c2b-816f-6d8a83b58815">
+    <serverData>
+      <paths name="ikt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/veeb" local="$PROJECT_DIR$" web="/veeb" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ikt" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
