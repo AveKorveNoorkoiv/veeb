@@ -62,3 +62,4 @@ function tabelTekst($sona1, $sona2, $sona3, $sona4){
     echo '</table>';
 }
 tabelTekst('See', 'on', 'üks', 'tabel');
+/*kirjeldus parandusega*/
