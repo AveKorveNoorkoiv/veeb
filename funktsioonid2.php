@@ -57,3 +57,4 @@ otsiNumber(442158755745, 5);
 otsiNumber(442158755745, 7);
 otsiNumber(442158755745, 4);
 otsiNumber(442158755745, 8);
+/*vale kirjeldusega*/
