@@ -85,3 +85,4 @@ $kell = date('H:i');
 echo $kell.'<br />';
 $aasta = date('Y', $hetkel);
 echo $aasta.'<br />';
+/* commiti ja pushi õige faili alt*/
