@@ -11,14 +11,12 @@ $opilane = array(
     'vanus' => 15,
     'klass' => 9
 );
-
-echo '<pre>\';
+echo '<pre>';
 print_r($opilane);
-echo \'<pre>';
-
-foreach ($opilane as $vaartus) {
-    echo $vaartus. '<br/>';
+echo '</pre>';
+foreach ($opilane as $vaartus){
+    echo $vaartus.'<br />';
 }
-foreach ($opilane as $element => $vaartus) {
-    echo $element.'-'$vaartus. '<br/>';
+foreach ($opilane as $element => $vaartus){
+    echo $element.' - '.$vaartus.'<br />';
 }
