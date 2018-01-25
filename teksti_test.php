@@ -10,7 +10,7 @@ require_once 'tekst.php';
 //loome teksti objeksti
 $minuTekst = new tekst();
 // määrame tekstile konkreetse susu
-$minuTekst->maaraTekst('Tere Maailm!');
+$minuTekst = new tekst('Tere Maailm!');
 // vaatame, mis on objekti sees
 echo '<pre>';
 print_r($minuTekst);
