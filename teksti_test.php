@@ -8,7 +8,7 @@
 require_once 'tekst.php';
 
 //loome teksti objeksti
-$minuTekst = new tekst();
+
 // määrame tekstile konkreetse susu
 $minuTekst = new tekst('Tere Maailm!');
 // vaatame, mis on objekti sees
