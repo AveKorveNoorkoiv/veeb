@@ -18,7 +18,7 @@ class tekst
      */
     public function __construct($sone)
     {
-        $this->sone = $sone;
+        $this->maaraTekst($sone);
     }
     // klassi tegevused
     // meetoditena
